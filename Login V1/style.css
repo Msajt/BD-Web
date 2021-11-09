@@ -1,0 +1,24 @@
+.container{
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.title-text{
+  text-align: center;
+}
+
+.title-text h3{
+  background-color: lightblue;
+}
+
+.title-text h2{
+  background-color: cyan;
+}
+
+.information li{
+  text-align: center;
+  background-color: lightcyan;
+}
